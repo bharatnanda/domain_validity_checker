@@ -1,0 +1,18 @@
+domain_validator:
+  configuration:
+    email:
+      username: xxxxxxxxxxxxxx@gmail.com
+      password: xxxxxxxxxxxxxx
+      smtp_server: xxxxxxxxxxxxxxxx
+      smtp_port: xxxxxxxxxxxxxxx
+      from: xxxxxxxxxxxxxx@gmail.com
+      to: 
+        - xxxxxxxxxxx@gmail.com
+        - xxxxxxxxxxx@gmail.com
+    domains:
+      - xxxxxxxxxxxxxxx
+      - xxxxxxxxxxxxxxx
+    job:
+      scheule_time: 'hh:mm:ss'
+    expiration: 
+      days: xxx
